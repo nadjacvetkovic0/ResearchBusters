@@ -1,0 +1,4 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/nadjacvetkovic/Documents/Zoom/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3bf682b1f8f2a44a3bca8af68c713f90
+# Starting compiling UnityEngine.UI.dll
+/Users/nadjacvetkovic/Documents/Zoom/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2a037ed13e6e54fb980ff7f72d56df65
